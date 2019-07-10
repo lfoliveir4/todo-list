@@ -2,6 +2,7 @@
 ## Descrição
 Este aplicativo se refere a um teste de vaga de emprego para a empresa Nappo.
 É uma lista de tarefas Desenvolvida em React Native, com Backend feito em NodeJs.
+É possível criar, editar e apagar tarefas. Para atualizar a lista de tarefas, qualquer que seja feita a alteração, apenas puxe o Scroll para baixo para obter as novas atualizações.
 
 ## Iniciar projeto
 Para iniciar o projeto, basta fazer o clone do repositorio. Entre nas pastas de cada conteudo, pelo terminal, "backend" e "mobile" e instale o npm com o seguinte comando: "npm install".
